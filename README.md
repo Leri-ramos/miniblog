@@ -4,6 +4,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Este link possibilita a visutalização  do site em questão
+https://Leri-ramos.github.io/miniblog
+
 ## Available Scripts
 
 In the project directory, you can run:

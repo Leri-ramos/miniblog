@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miniblog/static/css/main.543f792b.css",
+    "main.js": "/miniblog/static/js/main.9b973ce3.js",
+    "static/js/787.95489147.chunk.js": "/miniblog/static/js/787.95489147.chunk.js",
+    "index.html": "/miniblog/index.html",
+    "main.543f792b.css.map": "/miniblog/static/css/main.543f792b.css.map",
+    "main.9b973ce3.js.map": "/miniblog/static/js/main.9b973ce3.js.map",
+    "787.95489147.chunk.js.map": "/miniblog/static/js/787.95489147.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.543f792b.css",
+    "static/js/main.9b973ce3.js"
+  ]
+}
